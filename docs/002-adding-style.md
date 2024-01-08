@@ -20,3 +20,6 @@ Let transform, using Copilot the profile image into a circle, using CSS.
 
 </details>
 
+## Application after these steps
+
+![Application](./002-app.png)

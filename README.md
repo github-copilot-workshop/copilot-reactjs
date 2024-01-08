@@ -30,3 +30,6 @@ Copilot excercises:
 
 - [Creating new Components](docs/001-creatind-new-components.md)
 - [Adding some style](docs/002-adding-style.md)
+
+
+![Application](docs/002-app.png)

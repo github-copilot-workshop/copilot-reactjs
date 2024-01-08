@@ -52,3 +52,7 @@ Something like: `http://localhost:3000?name=tgrall`
    ```
 </details>
 
+
+## Application after these steps
+
+![Application](./001-app.png)
